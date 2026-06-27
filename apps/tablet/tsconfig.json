@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "lib": ["ES2020"],
+    "jsx": "react-native",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": false,
+    "paths": {
+      "@wise-wash/shared": ["../../packages/shared/src/index.ts"]
+    }
+  },
+  "include": ["src", "App.tsx", "__tests__"],
+  "exclude": ["node_modules"]
+}

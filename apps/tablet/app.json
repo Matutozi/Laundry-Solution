@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Wise-Wash Tablet",
+    "slug": "wise-wash-tablet",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.wisewash.tablet"
+    },
+    "plugins": ["expo-dev-client"]
+  }
+}
