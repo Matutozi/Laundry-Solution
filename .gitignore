@@ -29,3 +29,7 @@ venv/
 *.sqlite
 *.sqlite3
 CLAUDE.md
+
+RUNNING.md
+
+.env.example
